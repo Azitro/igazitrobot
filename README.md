@@ -1,0 +1,2 @@
+# igazitrobot
+termux ig
