@@ -15,6 +15,8 @@ pkg install python2
 
 git clone https://github.com/Azitro/igazitro.git
 
+cd igazitrobot
+
 pip install colorama   
 
 python3 igazitrobot.py 
