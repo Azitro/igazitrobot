@@ -1,5 +1,5 @@
-htcn10h : ServeT73.,
-kazmito01 : 14532351k
-kazmito0  : 14532351o
-azitro0 : 14532351o
-aziton : 14532351e
+htcn10h:ServeT73.,
+kazmito01:14532351k
+kazmito0:14532351o
+azitro0:14532351o
+aziton:14532351e
