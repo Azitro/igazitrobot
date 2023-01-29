@@ -43,7 +43,7 @@ class Client:
         loginHeaders = {
             "Accept":"*/*",
             "Accept-Encoding":"gzip,deflate,br",
-            "Accept-Language":"en-US,en;q=0.5",
+            "Accept-Language":"tr-TR,en;q=0.5",
             "Connection":"keep-alive",
             "Content-Type":"application/x-www-form-urlencoded",
             "Host":"www.instagram.com",
@@ -79,7 +79,7 @@ class Client:
         spamHeaders = {
             "Accept":"*/*",
             "Accept-Encoding":"gzip,deflate,br",
-            "Accept-Language":"en-US,en;q=0.5",
+            "Accept-Language":"tr-TR,en;q=0.5",
             "Connection":"keep-alive",
             "Content-Type":"application/x-www-form-urlencoded",
             "DNT":"1",
